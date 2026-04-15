@@ -3,8 +3,8 @@
 *.txt
 
 # Python virtual environments
-.venv/
-venv/
+.myenv/
+myenv/
 env/
 ENV/
 
