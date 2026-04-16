@@ -1,35 +1,37 @@
-"""
-PROGRAM: TensorFlow GPU Check and Minimal Inference Demo
-AUTHOR:  Dr. Aliasghar Khavasi
-DATE:    2026 - January
-
-DESCRIPTION:
-  A short TensorFlow script that:
-    1) Detects available GPU devices and prints the result.
-    2) Builds and compiles a minimal Keras Sequential model for a 20-feature input:
-       - Dense(32, ReLU) → Dense(2, Softmax)
-    3) Prints the model architecture summary.
-    4) Generates a small dummy dataset (10 samples × 20 features) and runs a forward pass.
-    5) Prints the predicted class probability vectors for the dummy samples.
-"""
-
 import tensorflow as tf
 import numpy as np
+import os
 
-# Check GPU
-gpus = tf.config.list_physical_devices('GPU')
-print("GPUs:", gpus)
+# Force TensorFlow to use CPU only due to older VGA 
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
-# Simple model definition
+# Verify environment isolation and device usage
+print("TensorFlow version:", tf.__version__)
+print("Available devices:", tf.config.list_physical_devices())
+
+# 1. Improved model definition using Input layer 
 from tensorflow.keras import layers, models
-model = models.Sequential([
-    layers.Dense(32, activation='relu', input_shape=(20,)),
-    layers.Dense(2, activation='softmax')
-])
-model.compile(optimizer='adam', loss='sparse_categorical_crossentropy')
+
+model = models.Sequential(
+    [
+        layers.Input(shape=(20,)),  # Explicit input layer 
+        layers.Dense(32, activation="relu"),  # Hidden layer 
+        layers.Dense(2, activation="softmax"),  # Output layer
+    ]
+)
+
+# 2. Compile the model with recommended settings 
+model.compile(
+    optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"]
+)
+
+# 3. Model Summary for verification 
 model.summary()
 
-# Dummy data
+# 4. Dummy data for testing (10 samples, 20 features) 
 data = np.random.rand(10, 20)
+
+# 5. Execute prediction 
 predictions = model.predict(data)
-print("Predictions:", predictions)
+print("\nPredictions shape:", predictions.shape)
+print("Predictions:\n", predictions)
