@@ -46,7 +46,7 @@ source myenv/bin/activate
 
 ![alt text](image-2.png)
 
-- **Dependencies Installed:** [List key packages]
+- **Dependencies Installed:**
 
 ![alt text](image-3.png)
 
@@ -160,7 +160,7 @@ print("Predictions:\n", predictions)
 
 ```
 
-#### PyTorch Example (if applicable)
+#### PyTorch Example
 ```python
 import torch
 import torch.nn as nn
@@ -307,6 +307,6 @@ wrapt==2.1.2
 ## Appendix: Code Repository
 **GitHub/Repository Link:** https://github.com/Muditha-Kumara/Applied-artificial-intelligence/tree/main/3.2
 
-**Git Commit:**
+**Git Commit:** fd4b0f21478c041622f90ce344c065e8ae2bebc2
 
 
