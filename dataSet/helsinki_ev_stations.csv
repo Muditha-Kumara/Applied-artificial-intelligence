@@ -1,0 +1,241 @@
+Address,Connectors,Operator,Power
+"Karamzininranta 2, Helsinki",Type 2 (2),Aimo Charge,22 kW
+Helsinki,Type 2 (4),,22 kW
+"Alvar Aallon katu 3, Helsinki",CCS (4),,300 kW
+"Museokatu 12, Helsinki",CCS (2),,50 kW
+"Mannerheimintie 46, Helsinki",Type 2 (3),Virta,22 kW
+"Eteläinen Rautatienkatu 6, Helsinki",Type 2 (2),,22 kW
+"Stationsplatsen 1, Helsinki",Type 2 (11),,22 kW
+Helsinki,Type 2 (8),Virta,22 kW
+"Eteläinen Hesperiankatu 22, Helsinki",Type 2 (4),,22 kW
+"Kivelänkatu 1, Helsinki",Type 2 (2),,22 kW
+"Simonkatu 7, Helsinki",Type 2 (14),,up to 22 kW
+Helsinki,Type 2 (4),,up to 22 kW
+"Runeberginkatu 3, Helsinki",Type 2 (8),Virta,22 kW
+"Puutarhakatu 1, Helsinki",Type 2 (3),Aimo Charge,22 kW
+"Runebergingkatu 1, Helsinki",Type 2 (3),,22 kW
+"Eerikinkatu 6, Helsinki",Type 2 (2),,22 kW
+"Mannerheimintie 12, Helsinki","CCS (1), Type 2 (8)",Aimo Charge,up to 180 kW
+"Eläintarhantie 1, Helsinki","CCS (2), Type 2 (2)",,up to 200 kW
+"Mannerheimintie 10, Helsinki",Type 2 (4),Virta,22 kW
+"John Stenbergin ranta 4, Helsinki",Tesla (2),Tesla,22 kW
+Helsinki,Type 2 (2),,22 kW
+"John Stenbergin ranta 4, Helsinki",Type 2 (3),Virta,11 kW
+"Paavo Nurmen kuja 1, Helsinki",Type 2 (4),Helen,22 kW
+Helsinki,Type 2 (2),,22 kW
+"Wallininkatu 4, Helsinki",Type 2 (2),,22 kW
+"Pohjoinen Hesperiankatu 33, Helsinki",Type 2 (6),,22 kW
+"Annankatu 18, Helsinki",Type 2 (5),Virta,22 kW
+"Rauhankatu 17, Helsinki",Type 2 (2),,22 kW
+"Siltasaarenkatu 15, Helsinki",Type 2 (2),,22 kW
+"GLO Hotel Art Lönnrotinkatu 29, Helsinki",Type 2 (8),Virta,22 kW
+"Yrjönkatu 10, Helsinki",Type 2 (8),Aimo Charge,22 kW
+"Viides Linja 16, Helsinki",Type 2 (2),,22 kW
+"Paavo Nurmen tie 1, Helsinki",Type 2 (2),,22 kW
+"Linnankoskenkatu 8 , Helsinki",Type 2 (2),,22 kW
+"Fabianinkatu 17, Helsinki",Type 2 (6),Aimo Charge,22 kW
+"Mechelinkatu 1a, Helsinki",Type 2 (6),Unified Chargers,11 kW
+Helsinki,Type 2 (4),,22 kW
+Helsinki,"CCS (1), CHAdeMO (1), Type 2 (4)",,up to 50 kW
+"Josafatinkatu 9, Helsinki",Type 2 (4),,22 kW
+"Eteläranta 10, Helsinki",Type 2 (2),Virta,22 kW
+"Porkkalankatu 10, Helsinki",Type 2 (12),Virta,22 kW
+"Rajasaarenpenger 1, Helsinki",Type 2 (2),,22 kW
+"Kaikukatu 3, Helsinki",Type 2 (2),,22 kW
+"Nordenskiöldinkatu 11-13, Helsinki",Type 2 (6),,22 kW
+Helsinki,Type 2 (4),,22 kW
+"Vauhtitie 6, Helsinki",Type 2 (4),,22 kW
+"Messeniuksenkatu 3, Helsinki",CCS (2),,100 kW
+"Kanavaranta 15, Helsinki",Type 2 (4),,22 kW
+Helsinki,Type 2 (2),,22 kW
+"Lintulahdenkatu 5, Helsinki",CCS (4),,300 kW
+"Nordenskiöldinkatu 11-13, Helsinki",Type 2 (2),,22 kW
+"Telakkarannantie, Helsinki","CCS (2), CHAdeMO (2)",Virta,50 kW
+Helsinki,Type 2 (2),,22 kW
+"Stenbäckinkatu 26, Helsinki",Type 2 (2),,22 kW
+"Kotkankatu 4, Helsinki",Type 2 (4),,22 kW
+"Stenbäckinkatu 9, Helsinki",Type 2 (6),Virta,22 kW
+"Telakkarannantie, Helsinki",Type 2 (38),Virta,21 kW
+"Vaasankatu 2, Helsinki",Type 2 (2),,22 kW
+"Ullankatu 3, Helsinki",Type 2 (2),,22 kW
+"Olympiaranta 3, Helsinki",Type 2 (2),Virta,22 kW
+"Töölöntullinkatu 8, Helsinki",CCS (4),,300 kW
+"Porkkalankatu 9-11, Helsinki","CCS (1), CHAdeMO (1)",,50 kW
+"Pikku Satamakatu 4-6, Helsinki",Type 2 (2),,22 kW
+Helsinki,"CCS (1), CHAdeMO (1), Type 2 (2)",,up to 50 kW
+"Välimerenkatu 12, Helsinki",Type 2 (18),Virta,22 kW
+Helsinki,Type 2 (2),,22 kW
+"Energiakatu 4, Helsinki",Type 2 (12),Virta,up to 22 kW
+"Välimerenkatu 12, Helsinki",Type 2 (38),Virta,22 kW
+"Välimerenkatu 12, Helsinki","CCS (4), CHAdeMO (6)",Virta,up to 150 kW
+"Urheilukatu 56, Helsinki",Type 2 (2),,22 kW
+"Välimerenkatu 12, Helsinki",Type 2 (14),Virta,22 kW
+"Kapteeninkatu 14, Helsinki",CCS (4),,300 kW
+"Engelinaukio 13, Helsinki",Type 2 (4),,22 kW
+"Olympiaranta 1, Helsinki",Type 2 (9),Virta,11 kW
+"Parrukatu 1-3, Helsinki",Type 2 (3),,22 kW
+Helsinki,Type 2 (4),,22 kW
+"Porkkalankatu 13, Helsinki",Type 2 (6),Virta,22 kW
+"Tyynenmerenkatu 11, Helsinki",Type 2 (10),,22 kW
+"Palkkatilanportti 1, Helsinki",Type 2 (2),,22 kW
+"Elimäenkatu 15, Helsinki",Type 2 (6),Aimo Charge,22 kW
+"Merikatu 27, Helsinki",CCS (4),,200 kW
+Helsinki,Type 2 (8),Virta,11 kW
+"Katajanokanlaituri 8, Helsinki",Type 2 (2),Virta,22 kW
+"Tammasaarenlaituri 5, Helsinki",Type 2 (4),,22 kW
+"Kumpulantie 2, Helsinki",Type 2 (2),,22 kW
+Helsinki,Type 2 (2),,22 kW
+"Sompasaarenlaituri 4, Helsinki",Type 2 (2),,22 kW
+"Kuortaneenkatu 2, Helsinki",Type 2 (11),Aimo Charge,22 kW
+"Saukonpaadenranta 14, Helsinki",Type 2 (2),,22 kW
+"Esterinportti 1, Helsinki",Type 2 (2),,22 kW
+"Priki Johannan Kuja 2, Helsinki",Type 2 (38),Virta,22 kW
+"Ratavartijankatu 3, Helsinki",Type 2 (4),eParking,22 kW
+"Merikasarminkatu 7, Helsinki",Type 2 (2),,22 kW
+"Länsisatamankatu 35, Helsinki","CCS (1), CHAdeMO (1), Type 2 (1)",,up to 50 kW
+"Lautatarhankatu 6, Helsinki",Type 2 (4),Virta,11 kW
+"Länsisatamankatu 35, Helsinki",Type 2 (7),Virta,22 kW
+"Länsisatamankatu 35, Helsinki",Type 2 (14),Virta,22 kW
+"Fredikanterassi 1, Helsinki",Type 2 (300),eParking,22 kW
+Helsinki,Type 2 (6),Virta,11 kW
+Helsinki,Type 2 (15),Virta,15 kW
+Helsinki,Type 2 (12),Virta,15 kW
+"Maistraatinportti 2, Helsinki",Type 2 (54),,22 kW
+Helsinki,Type 2 (24),Virta,15 kW
+"Ratapihantie, Helsinki",Type 2 (10),eParking,22 kW
+"Ehrenströmintie 3, Helsinki",Type 2 (2),,22 kW
+Helsinki,Type 2 (6),Virta,22 kW
+"Lehtikuusentie 2, Helsinki",Type 2 (4),,22 kW
+"Länsisatamankatu 45, Helsinki",Type 2 (18),Virta,22 kW
+"Vellamonkatu 5, Helsinki",Type 2 (4),,22 kW
+"Mäkelänkatu 49, Helsinki",Type 2 (4),,22 kW
+"Leonkatu 21, Helsinki",Type 2 (2),,22 kW
+"Verkkosaarenkatu 5, Helsinki",Type 2 (11),Virta,22 kW
+"Messuaukio 1, Helsinki",CCS (2),,200 kW
+"Ratsastie 10, Helsinki",Type 2 (2),,22 kW
+"Messuaukio 1, Helsinki",Type 2 (6),Virta,22 kW
+"Vanha talvitie 12, Helsinki","CCS (1), CHAdeMO (1), Type 2 (1)",,up to 50 kW
+Helsinki,Type 2 (6),Virta,11 kW
+"Hernematalankatu 6, Helsinki",Type 2 (1),,22 kW
+"Rahakamarinportti 1, Helsinki",Type 2 (2),,22 kW
+"Messuaukio 1, Helsinki",Type 2 (7),K-Lataus,11 kW
+"Kiskontie 4, Helsinki",Type 2 (2),,22 kW
+"Pajalahdentie 8, Helsinki",Type 2 (4),,22 kW
+"Hannanportti 1, Helsinki",Type 2 (4),,22 kW
+"Mustikkamaantie 3, Helsinki",Type 2 (2),,22 kW
+"Televisiokatu 4, Helsinki",Type 2 (10),Virta,22 kW
+"Televisiokatu 1, Helsinki",Type 2 (32),Virta,22 kW
+"Kyläsaarenkuja 6, Helsinki",Type 2 (2),Virta,22 kW
+"Ratapihantie 17, Helsinki",Type 2 (48),,22 kW
+Helsinki,Type 2 (6),Virta,22 kW
+"Radiokatu 22, Helsinki",Type 2 (2),,22 kW
+"Jan-Magnus Janssonin aukio 1, Helsinki",CCS (2),,170 kW
+"Lauttasaarentie 28, Helsinki",Type 2 (4),,22 kW
+"Gyldenintie 15-17, Helsinki",Type 2 (2),,22 kW
+"Paraistentie 12, Helsinki",Type 2 (2),,22 kW
+"Mäkelänkatu 72, Helsinki",Type 2 (4),,22 kW
+"Vattuniemen puistotie 1, Helsinki",Tesla (1),Tesla,11 kW
+"Hämeentie 111, Helsinki","CCS (6), Type 2 (4)",K-Lataus,up to 150 kW
+"Hämeentie 111, Helsinki",Type 2 (4),Virta,22 kW
+"Gustaf Hällströmin katu 2, Helsinki",Type 2 (4),,22 kW
+"Vattuniemen puistotie 3, Helsinki",Type 2 (4),,22 kW
+"Kiviaidankatu 2, Helsinki","CCS (2), Type 2 (4)",K-Lataus,up to 100 kW
+"Tilkankatu 11, Helsinki",Type 2 (4),,22 kW
+"Kalastajatorpantie 1, Helsinki",Type 2 (3),Virta,22 kW
+"Hakamäenkuja 2, Helsinki",CCS (4),,300 kW
+"Mannerheimintie 113, Helsinki",Type 2 (6),Aimo Charge,22 kW
+"Lahnalahdentie 4, Helsinki",Type 2 (4),,22 kW
+Helsinki,"CCS (1), CHAdeMO (1), Type 2 (2)",,up to 50 kW
+"Niemenmäenkuja 1, Helsinki",Type 2 (2),,22 kW
+"Hämeentie 135, Helsinki",Type 2 (2),Virta,22 kW
+"Katajaharjuntie 10, Helsinki",Tesla (1),Tesla,11 kW
+"Telkkäkuja 3, Helsinki",Type 2 (2),,22 kW
+"Haagan tori 1, Helsinki",Type 2 (4),,22 kW
+"Käpyläntie 8, Helsinki",CCS (4),,300 kW
+"Porintie 2, Helsinki",Type 2 (4),,22 kW
+"Vespertie 12-8, Helsinki",Type 2 (2),,22 kW
+"Käpyläntie 11 A, Helsinki",Type 2 (2),Virta,22 kW
+"Oskelantie 2, Helsinki",Type 2 (2),,22 kW
+"Panuntie 11, Helsinki","CCS (2), CHAdeMO (2), Type 2 (4)",K-Lataus,up to 50 kW
+Helsinki,Type 2 (4),Aimo Charge,22 kW
+"Paasivaarankatu 9, Helsinki",Type 2 (6),,22 kW
+"Hiihtäjäntie 2, Helsinki","CCS (2), Type 2 (4)",K-Lataus,up to 100 kW
+Helsinki,Type 2 (2),Virta,22 kW
+Helsinki,Type 2 (2),Virta,22 kW
+"Purotie 8, Helsinki",Type 2 (2),,22 kW
+Helsinki,Type 2 (2),Virta,22 kW
+"Maunulanmäki 5, Helsinki",Type 2 (4),,22 kW
+"Linnanrakentajantie 2, Helsinki",Type 2 (20),Aimo Charge,22 kW
+"Valimotie 25, Helsinki",Type 2 (1),Virta,22 kW
+"Eliel Saarisen tie 5, Helsinki","CCS (1), CHAdeMO (1), Type 2 (2)",K-Lataus,up to 50 kW
+"Valimotie 27, Helsinki",Type 2 (2),Virta,11 kW
+"Valimotie 27, Helsinki",Type 2 (10),Virta,up to 22 kW
+"Kuusikkotie 5, Helsinki",Type 2 (2),Virta,22 kW
+"Pirkkolantie 25, Helsinki",Type 2 (4),,22 kW
+Helsinki,Type 2 (4),Aimo Charge,22 kW
+"Abraham Wetterin tie 1, Helsinki","CCS (2), Type 2 (4)",,up to 50 kW
+"Käskynhaltijantie 11, Helsinki",Type 2 (2),,22 kW
+Helsinki,Type 2 (2),CloudCharge,22 kW
+"Hirsipadonkuja, Helsinki",Type 2 (4),,22 kW
+"Sarvastonkaari 72-76, Helsinki",Type 2 (4),,22 kW
+"Pakilantie 46, Helsinki","CCS (1), CHAdeMO (1), Type 2 (1)",,up to 50 kW
+"Aku Korhosentie 8, Helsinki",Type 2 (4),Virta,22 kW
+"Aku Korhosen tie 8, Helsinki",Type 2 (4),Virta,22 kW
+Helsinki,Type 2 (8),Virta,22 kW
+Helsinki,Type 2 (1),Virta,22 kW
+"Turkismiehentie 7, Helsinki",Type 2 (4),,22 kW
+Helsinki,Type 1 (2),,22 kW
+"Käskynhaltijantie 10, Helsinki","CCS (4), Type 2 (4)",K-Lataus,up to 200 kW
+"Laurinniitynpolku 2 , Helsinki",Type 2 (2),,22 kW
+"Pilkekuja 10, Helsinki",Type 2 (4),Virta,11 kW
+"Kanslerinkaari 4, Helsinki",Type 2 (4),Virta,22 kW
+Helsinki,Type 2 (5),Virta,22 kW
+"Latokartanonkaari 11, Helsinki",Type 2 (2),Virta,22 kW
+"Kaarelantie 14, Helsinki","CCS (2), Type 2 (2)",K-Lataus,up to 100 kW
+"Pukinmäenkaari 55, Helsinki",CCS (6),,up to 300 kW
+"Rapakivenkaari 3, Helsinki",CCS (6),,up to 400 kW
+Helsinki,Type 2 (5),Virta,22 kW
+"Kaarelan raitti, Helsinki",Type 2 (2),,22 kW
+"Latokartanonkaari 23, Helsinki","CCS (2), CHAdeMO (1), Type 2 (1)",K-Lataus,up to 150 kW
+"Ratasmyllynkuja 1, Helsinki",Type 2 (4),Virta,22 kW
+"Ajomiehentie 1, Helsinki","CCS (6), Type 2 (2)",K-Lataus,up to 180 kW
+"Ristipellontie 11, Helsinki",CCS (4),,200 kW
+"Konalantie 47, Helsinki",Type 2 (10),Virta,22 kW
+"Konalantie 47, Helsinki",Type 2 (4),Virta,22 kW
+"Pakilantie 122, Helsinki",Type 2 (2),,22 kW
+"Ristipellontie 21, Helsinki",Type 2 (6),Virta,22 kW
+"Pakilantie 124, Helsinki",Type 2 (4),,22 kW
+"Talttakuja 6, Helsinki",Type 2 (4),,22 kW
+"Olavinlinnantie 6, Helsinki",Type 2 (2),,22 kW
+"Luutnantintie 5, Helsinki",Type 2 (2),Helen,22 kW
+"Torpparinmäentie 1, Helsinki","CCS (1), CHAdeMO (1), Type 2 (2)",K-Lataus,up to 50 kW
+Helsinki,Type 2 (3),Virta,22 kW
+"Kivikonlaita 2, Helsinki","CCS (5), CHAdeMO (1)",,up to 350 kW
+Helsinki,Type 2 (2),Virta,22 kW
+Helsinki,Type 2 (8),Virta,22 kW
+"Kunnantie 1, Helsinki",Type 2 (2),,22 kW
+"Savikiekontie 6, Helsinki",Type 2 (2),,22 kW
+"Pekanraitti 14, Helsinki",Type 2 (4),,22 kW
+"Malminkaari 19, Helsinki","CCS (4), Type 2 (4)",K-Lataus,up to 100 kW
+"Vanhalinnantie 11, Helsinki",Type 2 (2),Helen,22 kW
+"Kankiraudantie 6, Helsinki",CCS (4),K-Lataus,200 kW
+"Pallomäentie 14, Helsinki",Type 2 (2),,22 kW
+Helsinki,Type 2 (5),Virta,22 kW
+"Smoltinkuja 4, Helsinki",Type 2 (2),Virta,22 kW
+Helsinki,Type 2 (5),Virta,22 kW
+"Kallahdenraitti 3, Helsinki",Type 2 (2),,22 kW
+Helsinki,Type 2 (16),Virta,22 kW
+"Pallaksentie 2, Helsinki","CCS (2), CHAdeMO (1), Type 2 (1)",K-Lataus,up to 150 kW
+"Tyynylaavantie 7, Helsinki",Type 2 (10),,22 kW
+"Vuotie 45, Helsinki",Type 2 (6),Virta,up to 22 kW
+"Raidepolku 15, Helsinki",Type 2 (2),Helen,22 kW
+"Jakomäentie 1, Helsinki","CCS (1), CHAdeMO (1), Type 2 (2)",K-Lataus,up to 50 kW
+"Tapulikaupungintie 39, Helsinki",CCS (4),K-Lataus,200 kW
+"Tapulikaupungintie 37, Helsinki",Type 2 (2),Virta,22 kW
+"Lampputie 2, Helsinki",Type 2 (2),Virta,22 kW
+"Urheilukalastajankuja 2, Helsinki",Type 2 (8),,22 kW
+"Pallokuja 4, Helsinki",Type 2 (4),,22 kW
+"Aamuruskontie 2, Helsinki",Type 2 (2),,11 kW
+"Tatti 17, Helsinki","CCS (12), CHAdeMO (2)",,up to 200 kW
+Helsinki,Type 2 (6),Virta,22 kW
+Helsinki,Type 2 (2),Virta,22 kW
